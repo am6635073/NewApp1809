@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Упражнение1</string>
+    <string name="input_hint">Введите сообщение...</string>
+    <string name="input_action_preview">Просмотр</string>
+    <string name="preview_action_email">Мыло</string>
+</resources>
